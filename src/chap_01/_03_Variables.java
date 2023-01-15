@@ -27,11 +27,11 @@ public class _03_Variables {
         System.out.println(d);
         System.out.println(f);
 
-        long l= 1000000000000L;
-        l = 1_000_000_000_000L;
+//        long l= 1000000000000L;
+//        l = 1_000_000_000_000L;
 //      int형의 범위는 +-21억
 //      long에 l/L 을 넣어주어야 long으로 인식
 //      _ 표시로 숫자 구분 가능
-        System.out.println(l);
+//        System.out.println(l);
     }
 }
