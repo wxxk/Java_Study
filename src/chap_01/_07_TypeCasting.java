@@ -33,6 +33,7 @@ public class _07_TypeCasting {
         // double -> float -> long -> int : 수동으로 형변환
 
         // 숫자를 문자열로
+        // 숫자를 문자열로 바꾸기 위해선 클래스의 도움을 받아야함
         String s1 = String.valueOf(93);
         s1 = Integer.toString(93);
         System.out.println(s1); // 93
