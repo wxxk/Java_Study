@@ -22,6 +22,6 @@ public class _06_WhenToUse {
         System.out.println(getPower(3, 3)); // 3 * 3 * 3 = 27
 
         // 4의 2승을 구하기
-        System.out.println(getPower(4, 2)); // 4 * 4 = 16
+        System.out.println(getPower(4, 2)); // 4 1* 4 = 16
     }
 }
